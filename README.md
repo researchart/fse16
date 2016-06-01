@@ -8,7 +8,11 @@ This site is an experiment in **open reviewing**.
 
 - All reviews are public domains.
 - All final decisions are public domain.
-- ALl software for managing that process is open source and readily usable (github issues and Google Sheets).
+- All  software for managing that process (*) is open source and readily usable 
 
+
+(*) Github issues and Google Sheets.
+
+_______
 For information about particular submissions, please visit the 
 master control sheet [http://tiny.cc/fse16art](http://tiny.cc/fse16art).
