@@ -1,6 +1,6 @@
 <img align=right width=400 src="http://cdn.static-economist.com/sites/default/files/20140614_STD001.jpg">
 
-# Fse'16 Artififacts Track
+# Fse'16 Artifacts Track
 
 + Info about artifacts from Fse'16
 
