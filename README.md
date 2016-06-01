@@ -2,7 +2,7 @@
 
 # Fse'16 Artifacts Track
 
-+ Info about artifacts from Fse'16
++ Info about [artifacts track from Fse'16](http://www.cs.ucdavis.edu/fse2016/calls/artifacts/)
 
 This site is an experiment in **open reviewing**.
 
