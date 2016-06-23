@@ -34,7 +34,4 @@ git commit -am "saving"
 git push origin master
 
 txt $1 |
-mail  \
- -a "From: fse2016artifacts@easychair.org" \
- -s "Registration, FSE artifacts track for $1"  \
-  $2
+mail  -a "From: fse2016artifacts@easychair.org" -s "Registration, FSE artifacts track for $1"   "$2"
