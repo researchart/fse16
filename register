@@ -6,26 +6,27 @@ Subject: Registration, FSE artifacts track for $1
 
 Dear $1
 
-Thank you for submission. Please note the following
+Thank you for submission! Please note the following
 next steps (taken from our CFP). If you have any
-technical issues with the following (e.g. you are not
-familiar with using Github) then please contact us and
+technical issues with the following (e.g., you are not
+familiar with using GitHub) then please contact us and
 we will do the following for you.
 
-> 1) Our reply to you will point to a GitHub repository
+1) FSE-16 Artifacts GitHub repository:
 
 https://github.com/researchart/fse16/
 
-> 2) and a directory for submissions.
+2) Your directory for submissions:
 
 https://github.com/researchart/fse16/tree/master/submissions/$1
 
-> Drag and drop your PDF onto that directory.
+3) Drag and drop your PDF onto that directory.
 
-> Create an issue in that repository whose title is the
-> XXX_YYY. Do not add any text to the comment.
+4) Create an issue in that repository whose title is the
+XXX_YYY. Do not add any text to the comment.
 
 Regards,
+
 Olga & Tim
 EOF
 }
