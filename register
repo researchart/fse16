@@ -1,7 +1,6 @@
 #!/bin/bash
 set -x 
 txt() { cat<<EOF
-To: $2
 From: 	fse2016artifacts@easychair.org
 BCC: 	fse2016artifacts@easychair.org
 Subject: Registration, FSE artifacts track for $1
@@ -39,4 +38,4 @@ git commit -am "saving"
 git push origin master
 
 txt $1 $2
-txt $1 $2| /usr/sbin/sendmail
+txt $1  $2| /usr/sbin/sendmail -t $2
