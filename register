@@ -1,6 +1,11 @@
 #!/bin/bash
 set -x 
 txt() { cat<<EOF
+To: $2
+From: 	fse2016artifacts@easychair.org
+BCC: 	fse2016artifacts@easychair.org
+Subject: Registration, FSE artifacts track for $1
+
 Dear $1
 
 Thank you for submission. Please note the following
@@ -33,5 +38,5 @@ git add submissions/$1/README.md
 git commit -am "saving"
 git push origin master
 
-txt $1 |
-mail  -a "From: fse2016artifacts@easychair.org" -s "Registration, FSE artifacts track for $1"   "$2"
+txt $1 $2
+#| /usr/sbin/sendmail
