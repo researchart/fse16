@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x 
 txt() { cat<<EOF
 From: 	fse2016artifacts@easychair.org
 BCC: 	fse2016artifacts@easychair.org
