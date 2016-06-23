@@ -35,6 +35,6 @@ git push origin master
 
 txt $1 |
 mail  \
- -a "fse2016artifacts@easychair.org"
+ -a "fse2016artifacts@easychair.org" \
  -s "Registration, FSE artifacts track for $1"  \
   $2
