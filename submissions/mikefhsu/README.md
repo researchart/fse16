@@ -1,4 +1,3 @@
-Paper title: <br /> 
 Code Relatives: Detecting Similarly Behaving Software
 =====
 
