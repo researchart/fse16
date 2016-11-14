@@ -3,8 +3,9 @@
 ## Replication Package ##
 
 + [OPAL Framework](https://bitbucket.org/delors/opal)
-+ [identified Dead Methods](http://www.opal-project.org/artifacts/)
++ [identified dead methods](http://www.opal-project.de/artifacts/)
 + [DockerContainer on DockerHub](https://hub.docker.com/r/mreif/fse2016/) can be downloaded via docker
++ [used Libraries](http://www.st.informatik.tu-darmstadt.de/artifacts/dlc/)
 
 ## Disclaimer ##
 
